@@ -1,0 +1,46 @@
+html {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  font-size: 70px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.navtab {
+  font-size: 18px;
+  color: white;
+}
+
+.backgroundimg {
+  background-image: url("../../resources/media/background.png");
+}
+
+.newyork {
+  background-image: url("../../resources/media/background.png");
+}
+
+.ny {
+  color: white;
+}
+
+.h3details {
+  font-size: 14px;
+}
+
+.footer {
+  text-align: left;
+  background-color: dimgray;
+  color: white;
+}
+
+.copyright {
+  font-size: 11px;
+}
